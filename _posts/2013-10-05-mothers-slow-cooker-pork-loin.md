@@ -1,5 +1,5 @@
 ---
-layout: saying
+layout: post
 title: Mother's Slow-Cooker Pork Loin
 date: 2013-10-05T23:30:12-04:00
 categories:
